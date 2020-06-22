@@ -1,0 +1,4 @@
+C:\Users\Huy Nguyen\Desktop\khoahoc\buoi02\buoi02\bin\Debug\buoi02.dll
+C:\Users\Huy Nguyen\Desktop\khoahoc\buoi02\buoi02\bin\Debug\buoi02.pdb
+C:\Users\Huy Nguyen\Desktop\khoahoc\buoi02\buoi02\obj\Debug\buoi02.dll
+C:\Users\Huy Nguyen\Desktop\khoahoc\buoi02\buoi02\obj\Debug\buoi02.pdb

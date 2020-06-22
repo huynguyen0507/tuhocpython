@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command buoi02</Text>
+    <Description>Some description for buoi02</Description>
+    <Assembly>buoi02.dll</Assembly>
+    <FullClassName>buoi02.Command</FullClassName>
+    <ClientId>8b46746c-638d-46ea-8070-9e83301840fa</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
